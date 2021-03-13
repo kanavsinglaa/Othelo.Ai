@@ -4,7 +4,7 @@ This Ai uses alpha beta prunning and smart heuristics to beat other agents in th
 ## Results
 The following is the result of our smart heuristic agent using alpha beta prunning against random and basic heuristic agents:
 
-Again Random Agent (white) | Against an Ai Agent (white)
+Against a Random Moves Agent (white) | Against an Ai Agent (white)
 :------------:|:--------------------:
 ![](gifs/randy.gif))|![](gifs/agent.gif)
 
