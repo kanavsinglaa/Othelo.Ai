@@ -1,5 +1,7 @@
 # Othelo.Ai
 This Ai uses alpha beta prunning and smart heuristics to beat other agents in the game of Othelo.
+#### Please drop a star if you find this helpful or atleast mildly exciting ;)
+###### Note: This project is based on one used in Columbia University’s Artificial Intelligence Course (COMS W4701). Special thanks to Dr. Daniel Bauer, who developed the starter code that's further extended.
 
 ## Results
 The following is the result of our smart heuristic agent using alpha beta prunning against random and basic heuristic agents:
