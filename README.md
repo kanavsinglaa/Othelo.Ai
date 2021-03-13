@@ -5,6 +5,10 @@ Code folder contains all the coding files, which will be needed.
 A detailed explanation of how this algorithm works is provided <a href="./Point-Clouds_from_StereoImages_report.pdf">here</a>.
 
 ## Results
+The following is the result of our smart agent against random agent:
+![](gifs/randy.gif)
+The following is the result of our smart agent against an ai agent:
+![](gifs/agent.gif)
 
 <h4>Input Image</h4>
 <img src="Code/img0.png" width=400>
